@@ -11,8 +11,6 @@ Features
 Existing Features
 Navigation bar, which allows users to navigate my site easily.
 
-Header, to tell users what webpage they are on, be it the about me page, resume page or contact page.
-
 Footer, Which includes my social links like linked in and wix for employers to view more about me.
 
 Email me button, for employers to easily email me. Email button would redirect them directly to a email page for them to email me.
