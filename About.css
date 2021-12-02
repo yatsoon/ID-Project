@@ -90,6 +90,10 @@ body{
 			  padding: 10px;
 			  margin: 0;
       }
+
+    footer{
+      top: 900px;
+    }
   
 }
 @media (max-width: 576px) {
@@ -114,12 +118,6 @@ body{
         width: 100%;
       }
 
-      /*.textbesideimg{
-          position: relative;
-          left: 250px;
-          top: 160px;
-
-      }*/
       
       .pic{
         border-radius: 50%;
@@ -152,6 +150,10 @@ body{
 
         .box{
           height:300px ;
+        }
+
+        footer{
+          top:1300px;
         }
 }
     
