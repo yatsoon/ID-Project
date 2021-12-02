@@ -34,8 +34,7 @@ Javascript, to add in some interactive elements
 Css, to add style for the webpages
 Abobexd, for the planning of my webpages and also to make the wireframe
 
-
-For any scenarios that have not been automated, test the user stories manually and provide as much detail as is relevant. A particularly useful form for describing your testing process is via scenarios, such as:
+Testing:
 
 Contact form:
 Go to the "Contact Us" page
