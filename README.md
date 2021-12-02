@@ -1,5 +1,6 @@
 # Assignment
 Personal Resume site
+
 This is a resume site which enables people to learn more about me, and the past projects that i have done, and also my different achievements throughtout the years. This site also allows user to contact me via my socials or the sites email me button.
 
 Design Process
