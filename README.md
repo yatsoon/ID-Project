@@ -49,10 +49,19 @@ The form doesnt work, user is only able to key in information and press the subm
 Credits
 Content
 Media
+
 The photos used in this site were obtained from 
-linkedIn logo: https://www.flaticon.com/free-icon/linkedin_174857,
+
+linkedIn logo: https://www.flaticon.com/free-icon/linkedin_174857
+
 Wix logo: https://f.hubspotusercontent10.net/hubfs/2833362/__hs-marketplace__/wix-icon-800x800a-3-1.png
+
 background image: https://cdn.wallpapersafari.com/1/16/Omc6tT.jpg
+
 Acknowledgements
+
 I received inspiration for this project from 
+
 Email botton: https://www.youtube.com/watch?v=ueyRcYEmsrI&ab_channel=OnlineTutorials
+
+Typewriter effect: https://www.w3schools.com/howto/howto_js_typewriter.asp
