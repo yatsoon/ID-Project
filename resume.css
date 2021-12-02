@@ -65,7 +65,7 @@ h3{
 
 footer {
   position: absolute;
-  top: 350;
+  top: 900px;
   width: 100%;
   background-color:gray;
   color: white;
@@ -80,7 +80,7 @@ body{
 
 @media (max-width: 1600px ){
   footer{
-    top: 500;
+    top: 1800px;
   }
 }
 
