@@ -11,8 +11,6 @@ Features
 Existing Features
 Navigation bar, which allows users to navigate my site easily.
 
-Header, to tell users what webpage they are on, be it the about me page, resume page or contact page.
-
 Footer, Which includes my social links like linked in and wix for employers to view more about me.
 
 Email me button, for employers to easily email me. Email button would redirect them directly to a email page for them to email me.
@@ -51,10 +49,19 @@ The form doesnt work, user is only able to key in information and press the subm
 Credits
 Content
 Media
+
 The photos used in this site were obtained from 
-linkedIn logo: https://www.flaticon.com/free-icon/linkedin_174857,
+
+linkedIn logo: https://www.flaticon.com/free-icon/linkedin_174857
+
 Wix logo: https://f.hubspotusercontent10.net/hubfs/2833362/__hs-marketplace__/wix-icon-800x800a-3-1.png
+
 background image: https://cdn.wallpapersafari.com/1/16/Omc6tT.jpg
+
 Acknowledgements
+
 I received inspiration for this project from 
+
 Email botton: https://www.youtube.com/watch?v=ueyRcYEmsrI&ab_channel=OnlineTutorials
+
+Typewriter effect: https://www.w3schools.com/howto/howto_js_typewriter.asp
