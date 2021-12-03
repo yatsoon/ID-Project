@@ -62,6 +62,6 @@ Acknowledgements
 
 I received inspiration for this project from 
 
-Email botton: https://www.youtube.com/watch?v=ueyRcYEmsrI&ab_channel=OnlineTutorials
+Email button: https://www.youtube.com/watch?v=ueyRcYEmsrI&ab_channel=OnlineTutorials
 
 Typewriter effect: https://www.w3schools.com/howto/howto_js_typewriter.asp
